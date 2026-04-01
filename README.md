@@ -189,6 +189,6 @@ This is the Python microservice component of the DocuMind AI platform. See the m
 
 ## Author
 
-Built by [Your Name] — student developer from Albania.
+Built by Mateos Xhukellari — student developer from Albania.
 
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/MateosXhukellari](https://github.com/MateosXhukellari)
